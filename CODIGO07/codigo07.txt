@@ -1,0 +1,4 @@
+Elegí este código porque quería practicar cómo generar números aleatorios en ensamblador y, a la vez, trabajar con la interacción básica con el sistema a través de interrupciones. Un "dado mágico" me pareció una forma divertida y sencilla de aplicar conceptos como la manipulación de registros, 
+la aritmética modular y la salida de texto en consola.
+Además, este código me permitió experimentar con la interrupción int 0x80 para realizar operaciones como imprimir texto y manejar la salida del programa.
+ También aprendí cómo aprovechar el valor de tiempo del sistema como una fuente para generar aleatoriedad, lo cual es útil cuando no tienes bibliotecas externas a tu disposición.
