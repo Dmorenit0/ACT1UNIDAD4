@@ -1,0 +1,5 @@
+El temporizador me permite simular una espera activa usando instrucciones básicas del procesador.
+ Es un ejemplo simple pero efectivo para observar cómo los ciclos de CPU pueden 
+utilizarse para medir tiempo de forma aproximada. Además, sirve para comprender el uso de 
+registros como CX y estructuras de control como LOOP, 
+sin depender de funciones externas o interrupciones complejas.
