@@ -1,0 +1,3 @@
+Elegí crear el archivo programa.asm porque estoy aprendiendo a programar en lenguaje ensamblador (NASM) y quería empezar con un ejemplo sencillo que imprimiera un mensaje en pantalla,
+ en este caso: "Hola Mundo". Este tipo de programa es útil como base para practicar llamadas al sistema,
+ manejo de cadenas y estructuras básicas en ASM.
