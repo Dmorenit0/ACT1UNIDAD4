@@ -1,0 +1,4 @@
+Usé este código porque quería practicar el uso de **macros** en ensamblador para hacer operaciones simples como suma y resta. Me pareció una forma clara de automatizar instrucciones repetitivas y entender mejor cómo funciona la estructura del programa en NASM.
+Al principio tuve errores relacionados con la **sintaxis de las macros** y también algunos problemas al compilar,
+ como olvidar el `-f elf32` o no usar `ld` con la opción `-m elf_i386`.
+ Además, una vez me equivoqué en la carpeta de trabajo dentro de WSL, lo que causó que no encontrara los archivos. Pero al corregir esos detalles, el programa funcionó bien y mostró los resultados correctamente en pantalla.
