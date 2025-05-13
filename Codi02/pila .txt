@@ -1,0 +1,5 @@
+Elegí usar la pila porque permite almacenar datos temporalmente de manera ordenada, 
+siguiendo el principio LIFO (Last In, First Out). 
+Esto facilita recuperar los valores en el orden inverso al ingreso, 
+ideal para ejercicios que requieren invertir secuencias o analizar el comportamiento del stack en lenguaje ensamblador. 
+Además, su uso me ayuda a reforzar el manejo de instrucciones como PUSH y POP.
