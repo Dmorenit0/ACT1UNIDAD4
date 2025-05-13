@@ -1,0 +1,6 @@
+Elegí este código porque es una forma sencilla pero muy clara de practicar las comparaciones en ensamblador. El programa compara dos números y te dice si uno es mayor que el otro, lo que me ayudó a entender mejor cómo funciona la instrucción cmp y cómo hacer saltos condicionales con jg (jump if greater).
+
+También fue una buena oportunidad para repasar cómo se usan las interrupciones del sistema, como int 0x80, para imprimir algo en la pantalla y terminar el programa correctamente. Me gustó que este ejemplo combinara algo tan básico como las condiciones con la estructura mínima de un programa en NASM.
+
+Durante el proceso de implementación, me encontré con algunos errores, como rutas incorrectas o permisos al guardar el archivo desde WSL, pero después de corregir la ruta y asegurarme de estar en la carpeta correcta, pude compilar y ejecutar el programa sin problemas. Fue una experiencia bastante útil para mejorar tanto mi comprensión de la lógica de programación como mi manejo del entorno en Linux y WSL.
+
