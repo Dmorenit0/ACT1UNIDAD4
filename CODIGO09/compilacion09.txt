@@ -1,0 +1,4 @@
+agerardo@DESKTOP-HBEMF7F:~/proyectos/macros$ nasm -f elf32 macros.asm -o macros.o
+agerardo@DESKTOP-HBEMF7F:~/proyectos/macros$ ld -m elf_i386 -o macros macros.o
+agerardo@DESKTOP-HBEMF7F:~/proyectos/macros$ ./macros
+Resultado de la multiplicación: <carácter ascii del número>

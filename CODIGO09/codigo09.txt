@@ -1,0 +1,1 @@
+Elegí este código porque quería practicar el uso de macros en ensamblador para realizar una multiplicación. Me pareció una buena manera de simplificar operaciones y entender mejor cómo automatizar instrucciones con %macro.
