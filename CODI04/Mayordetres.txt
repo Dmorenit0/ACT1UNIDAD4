@@ -1,0 +1,6 @@
+Elegí este código porque me permite practicar conceptos fundamentales de ensamblador de manera sencilla. Al interactuar con el usuario para ingresar tres números y luego comparar cuál es el menor, 
+el programa es fácil de entender y me ayuda a mejorar mis habilidades con registros y comparaciones. Además, incluye validaciones para asegurar que los valores sean correctos, lo que le da robustez.
+Este código también me permitió familiarizarme con las llamadas al sistema en Linux, como la entrada y salida por consola. Es un buen punto de partida que puedo expandir fácilmente
+ si quiero agregar más funciones o hacer que el programa sea más complejo en el futuro.
+En resumen, es un ejemplo claro y simple que me ayuda a entender cómo funcionan las operaciones a bajo nivel, y al mismo tiempo me da una base sólida para seguir aprendiendo.
+
